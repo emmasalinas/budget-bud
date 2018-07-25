@@ -1,0 +1,14 @@
+/* .field{
+  font-family: Futura, "Trebuchet MS", Arial, sans-serif; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px;
+
+} */
+
+input{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin: 10px;
+    height: 20px;
+    width: 200px;
+  }
